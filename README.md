@@ -1,5 +1,7 @@
 # `<TinyMCEInput>` for admin-on-rest
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LoicMahieu/aor-tinymce-input.svg)](https://greenkeeper.io/)
+
 <TinyMCEInput> component for admin-on-rest, useful for editing HTML in admin GUIs.
 
 Binding of [`<TinyMCE />`](https://github.com/instructure-react/react-tinymce) for [admin-on-rest](https://github.com/marmelab/admin-on-rest).
