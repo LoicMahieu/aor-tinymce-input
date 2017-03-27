@@ -1,6 +1,6 @@
 {
   "name": "aor-tinymce-input",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "<TinyMCEInput /> component for admin-on-rest, useful for editing HTML in admin GUIs",
   "main": "lib/index.js",
   "scripts": {
