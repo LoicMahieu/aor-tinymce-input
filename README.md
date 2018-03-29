@@ -20,13 +20,14 @@ import {
 } from 'admin-on-rest/mui'
 
 import tinymce from 'tinymce/tinymce'
-// react-tinymce use global ref
-window.tinymce = tinymce
 
 import 'tinymce/themes/modern/theme'
 import 'tinymce/skins/lightgray/skin.min.css'
 
 import TinyMCEInput from 'aor-tinymce-input'
+
+// react-tinymce use global ref
+window.tinymce = tinymce
 
 export const PostEdit = (props) => (
   <Edit>
